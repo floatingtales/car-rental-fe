@@ -57,7 +57,6 @@ export function resetInput() {
   return {
     type: RESET,
     payload: {
-
     },
   };
 }
